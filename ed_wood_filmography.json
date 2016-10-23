@@ -4,7 +4,7 @@
       "month":"April",
       "year":"1953",
       "rating":"4.1",
-      "budget":"$20,000",
+      "budget":"$20,000"
 
    },
    {  
@@ -12,7 +12,7 @@
       "month":"May",
       "year":"1954",
       "rating":"3.2",
-      "budget":"$22,000",
+      "budget":"$22,000"
 
    },
    {  
@@ -20,7 +20,7 @@
       "month":"May",
       "year":"1955",
       "rating":"4.1",
-      "budget":"$70,000",
+      "budget":"$70,000"
 
    },
    {  
@@ -28,7 +28,7 @@
       "month":"N/A",
       "year":"1958",
       "rating":"3.6",
-      "budget":"N/A",
+      "budget":"N/A"
 
    },
    {  
@@ -36,15 +36,13 @@
       "month":"July",
       "year":"1959",
       "rating":"4.0",
-      "budget":"$60,000",
-
-   },
-   {  
-      "title":"The Sinister Urge",
+      "budget":"$60,000"
+},
+{"title":"The Sinister Urge",
       "month":"December",
       "year":"1960",
       "rating":"2.3",
-      "budget":"$20,125",
+      "budget":"$20,125"
 
    }
 ]

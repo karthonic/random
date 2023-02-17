@@ -1,0 +1,81 @@
+{
+   "elements":[
+      {
+         "name":"Hydrogen",
+         "number":1,
+         "nucleus":"1",
+         "orbit":"1",
+         "electrons":[
+            1
+         ]
+      },
+      {
+         "name":"Carbon",
+         "number":6,
+         "nucleus":"12",
+         "orbit":"2",
+         "electrons":[
+            2,
+            4
+         ]
+      },
+      {
+         "name":"Oxygen",
+         "number":8,
+         "nucleus":"16",
+         "orbit":"2",
+         "electrons":[
+            2,
+            6
+         ]
+      },
+     
+     {
+       "name": "Tantalum",
+       "number":73,
+       "nucleus":"181",
+       "orbit":"6",
+       "electrons":[
+       	2, 
+         8, 
+         18, 
+         32, 
+         11, 
+         2
+       
+       ]
+       
+       
+     },
+     
+      {
+         "name":"Bismuth",
+         "number":83,
+         "nucleus":"209",
+         "orbit":"6",
+         "electrons":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            5
+         ]
+      },
+      {
+         "name":"Curium",
+         "number":96,
+         "nucleus":"247",
+         "orbit":"7",
+         "electrons":[
+            2,
+            8,
+            18,
+            32,
+            25,
+            9,
+            2
+         ]
+      }
+   ]
+}
